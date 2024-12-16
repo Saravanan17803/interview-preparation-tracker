@@ -1,8 +1,5 @@
-package day_1;
-
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class BuildArrayFromPermutation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,7 +8,6 @@ public class BuildArrayFromPermutation {
         System.out.println(Arrays.toString(nums));
         sc.close();
     }
-
     public static int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
 
