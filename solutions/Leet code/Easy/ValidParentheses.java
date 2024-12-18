@@ -35,7 +35,6 @@ class ValidParentheses {
         } else {
             System.out.println("The input string is invalid.");
         }
-
         scanner.close();
     }
 }
