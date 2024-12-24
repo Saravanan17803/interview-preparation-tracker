@@ -1,13 +1,16 @@
 {
     "java.project.sourcePaths": [
+        "solutions/searching",
         "solutions/saturday problems",
         "solutions/patterns",
         "solutions/Leet code/Easy",
+        "solutions/7.arrays",
         "solutions/5.function",
         "solutions/4.control-statements/if else problems",
         "solutions/3.basic-problems",
         "solutions/2.flow-chart-and-pseudo-code1",
         "solutions/1.flow-of-program",
-        "solutions/7.arrays"
-    ]
+        "solutions/Leet code/Hard"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
