@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "solutions/string",
         "solutions/searching",
         "solutions/saturday problems",
         "solutions/patterns",
@@ -11,7 +12,7 @@
         "solutions/3.basic-problems",
         "solutions/2.flow-chart-and-pseudo-code1",
         "solutions/1.flow-of-program",
-        "solutions/string"
+        "solutions/sorting"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
