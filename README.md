@@ -28,10 +28,10 @@
 - [x] Functions
   - - [x] Introduction
   - - [x] Scoping in Java
-  - - [ ] Overloading
-  - - [ ] Overriding
-  - - [ ] Shadowing
-  - - [ ] Variable Length Arguments
+  - - [x] Overloading
+  - - [x] Overriding
+  - - [x] Shadowing
+  - - [x] Variable Length Arguments
 - [ ] Pattern Problems
     - - [x] Star patterns
     - - [x] Number patterns
@@ -41,16 +41,16 @@
   - - [x] Memory management
   - - [x] Input and Output
   - - [x] ArrayList Introduction
-  - - [ ] Sorting
-    - - [ ] Insertion Sort
-    - - [ ] Selection Sort
-    - - [ ] Bubble Sort
-    - - [ ] Cyclic Sort
-  - - [ ] 2D Arrays
-    - - [ ] Introduction
-    - - [ ] Traversal
-  - [ ] Searching
-    - - [ ] Linear Search
+  - - [x] Sorting
+    - - [x] Insertion Sort
+    - - [x] Selection Sort
+    - - [x] Bubble Sort
+    - - [x] Cyclic Sort
+  - - [x] 2D Arrays
+    - - [x] Introduction
+    - - [x] Traversal
+  - [x] Searching
+    - - [x] Linear Search
     - - [ ] Binary Search
 - [ ] Strings
   - [ ] Introduction

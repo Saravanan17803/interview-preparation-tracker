@@ -11,7 +11,7 @@ public class permutation {
             System.out.println(processed);
             return;
         }
-        for (int i = 0; i < processed.length() +1; i++) {
+        for (int i = 0; i < processed.length(); i++) {
             char ch=unprocessed.charAt(0);
             String newprocessed=processed.substring(0,i)+ch+processed.substring(i);
             String newUnprocessed=unprocessed.substring(1);
