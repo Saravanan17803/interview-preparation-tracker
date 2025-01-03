@@ -1,13 +1,13 @@
 # Recursion and Back Tracking Problems
 
-01. [ ] Print number from 1 to n
-02. [ ] Print number from n to 1
-03. [ ] Sum of numbers from 1 to n
-04. [ ] Product of nummbers from 1 to n
-04. [ ] Factorial of a number n
-05. [ ] Fibonacci of a numer
-06. [ ] Do all the searching and sorting we did till now in recursion
-07. [ ] [Sum triangle from array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
+01. [x] Print number from 1 to n
+02. [x] Print number from n to 1
+03. [x] Sum of numbers from 1 to n
+04. [x] Product of nummbers from 1 to n
+04. [x] Factorial of a number n
+05. [x] Fibonacci of a numer
+06. [x] Do all the searching and sorting we did till now in recursion
+07. [x] [Sum triangle from array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
 08. [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)
 09. [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
 10. [ ] [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/)
